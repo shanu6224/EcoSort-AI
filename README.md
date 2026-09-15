@@ -57,9 +57,9 @@ The proposed AI workflow:
 
 ## 🤖 AI Elements
 
-The proposed AI architecture uses:
+The proposed AI architecture is designed to use:
 
-- **IBM Granite Vision** – multimodal image understanding
+- **IBM Granite Vision – proposed multimodal image understanding
 - **IBM watsonx.ai** – AI model platform
 - **IBM BOB** – conversational AI layer
 - **RAG (Retrieval-Augmented Generation)** – campus/local waste-disposal guidelines
